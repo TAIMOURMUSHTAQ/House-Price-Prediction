@@ -59,3 +59,8 @@ jupyter notebook house_price_prediction.ipynb
 •	Add more advanced models (XGBoost, Random Forest)
 •	Perform hyperparameter tuning
 •	Deploy model with Streamlit for interactive predictions
+
+📧 **Author**
+Taimour Mushtaq
+🎓 BSCS Student at Federal Urdu University of Arts,Science and Technology, Islamabad Pakistan
+🔗 https://www.linkedin.com/in/taimourmushtaq/ |https://github.com/TAIMOURMUSHTAQ
